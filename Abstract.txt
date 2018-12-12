@@ -1,0 +1,7 @@
+#Final Project Abstract
+
+The purpose of this project was to create a script that can be utilized for research purposes regarding the study of genetic variation.
+First, the script would retrieve a FASTA file containing a nucleotide sequence.
+Next, the original sequence will be randomly mutated and the base compositions will be compared.
+Finally, the sequences will be aligned using pairwise alignment. 
+This script serves as a stepping stone for more complex studies in which clinically relevant mutations can be computed and observed.  
